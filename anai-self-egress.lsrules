@@ -1,0 +1,52 @@
+{
+  "name": "ANAI Benign Self-Egress (auto-generated)",
+  "description": "Phase 9 (task :26): high-priority ALLOW seed for the agent's own egress. Generated from the curated egress/anai-egress.lsrules allowlist UNION the live flows catalog (destinations the agent actually reached). Guarantees a malicious-feed false positive never blocks the agent. Observe-only posture (D-TSS-4): this group only ALLOWS; it adds no denies.",
+  "rules": [
+    {
+      "action": "allow",
+      "process": "any",
+      "priority": "high",
+      "direction": "outgoing",
+      "remote-domains": [
+        "anthropic.com",
+        "brew.sh",
+        "cloudflare.com",
+        "context7.com",
+        "deps.dev",
+        "ghcr.io",
+        "github.com",
+        "githubassets.com",
+        "githubusercontent.com",
+        "npmjs.com",
+        "npmjs.org",
+        "osv.dev",
+        "perplexity.ai",
+        "pkg.github.com",
+        "pypi.org",
+        "pythonhosted.org",
+        "stackexchange.com",
+        "stackoverflow.com",
+        "tailscale.com",
+        "tavily.com",
+        "upstash.io",
+        "yarnpkg.com"
+      ],
+      "notes": "ANAI benign self-egress (curated allowlist domains) — high priority so a malicious-feed false positive never blocks the agent's own work."
+    },
+    {
+      "action": "allow",
+      "process": "any",
+      "priority": "high",
+      "direction": "outgoing",
+      "remote-hosts": [
+        "downloads.claude.ai",
+        "github.com",
+        "http-intake.logs.us5.datadoghq.com",
+        "osv-vulnerabilities.storage.googleapis.com",
+        "pkg-containers.githubusercontent.com",
+        "ssh.github.com"
+      ],
+      "notes": "ANAI benign self-egress (live-observed agent hostnames + curated hosts) — high priority overrides feed denies."
+    }
+  ]
+}
