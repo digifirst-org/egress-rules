@@ -47,6 +47,7 @@
         "omalleytunstall3--filetransf.sandbox.my.salesforce.com",
         "osv-vulnerabilities.storage.googleapis.com",
         "pkg-containers.githubusercontent.com",
+        "platform.claude.com",
         "ssh.github.com"
       ],
       "notes": "ANAI benign self-egress (live-observed agent hostnames + curated hosts) — high priority overrides feed denies."
