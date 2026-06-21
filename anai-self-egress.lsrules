@@ -39,9 +39,12 @@
       "priority": "high",
       "direction": "outgoing",
       "remote-hosts": [
+        "dc.services.visualstudio.com",
         "downloads.claude.ai",
+        "eastus-1.in.applicationinsights.azure.com",
         "github.com",
         "http-intake.logs.us5.datadoghq.com",
+        "omalleytunstall3--filetransf.sandbox.my.salesforce.com",
         "osv-vulnerabilities.storage.googleapis.com",
         "pkg-containers.githubusercontent.com",
         "ssh.github.com"
