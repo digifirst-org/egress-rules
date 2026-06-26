@@ -40,6 +40,8 @@
       "direction": "outgoing",
       "remote-hosts": [
         "794testsite.my.site.com",
+        "advocate1.my.salesforce.com",
+        "advocatecloudsolutions3-dev-ed.develop.my.salesforce.com",
         "dc.services.visualstudio.com",
         "downloads.claude.ai",
         "eastus-1.in.applicationinsights.azure.com",
