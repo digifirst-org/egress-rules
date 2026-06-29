@@ -59,6 +59,7 @@
         "osv-vulnerabilities.storage.googleapis.com",
         "pkg-containers.githubusercontent.com",
         "platform.claude.com",
+        "servicereference.us-east-1.amazonaws.com",
         "ssh.github.com"
       ],
       "notes": "ANAI benign self-egress (live-observed agent hostnames + curated hosts) — high priority overrides feed denies."
