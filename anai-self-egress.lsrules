@@ -52,6 +52,7 @@
         "http-intake.logs.us5.datadoghq.com",
         "inspiration-saas-4079-dev-ed.scratch.my.salesforce.com",
         "java-customization-5409-dev-ed.scratch.my.salesforce.com",
+        "lambda.us-east-2.amazonaws.com",
         "login.salesforce.com",
         "omalleytunstall3--filetransf.sandbox.my.salesforce.com",
         "omalleytunstall3.my.salesforce.com",
@@ -59,8 +60,10 @@
         "osv-vulnerabilities.storage.googleapis.com",
         "pkg-containers.githubusercontent.com",
         "platform.claude.com",
+        "schemas.us-east-2.amazonaws.com",
         "servicereference.us-east-1.amazonaws.com",
-        "ssh.github.com"
+        "ssh.github.com",
+        "sts.us-east-2.amazonaws.com"
       ],
       "notes": "ANAI benign self-egress (live-observed agent hostnames + curated hosts) — high priority overrides feed denies."
     }
