@@ -40,6 +40,7 @@
       "direction": "outgoing",
       "remote-hosts": [
         "794testsite.my.site.com",
+        "adamslawfirm.my.salesforce.com",
         "advocate1.my.salesforce.com",
         "advocatecloudsolutions3-dev-ed.develop.my.salesforce.com",
         "agility-fun-6628-dev-ed.scratch.my.salesforce.com",
