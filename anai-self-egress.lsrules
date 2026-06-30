@@ -71,6 +71,7 @@
         "platform.claude.com",
         "saas-saas-9156-dev-ed.scratch.my.salesforce.com",
         "schemas.us-east-2.amazonaws.com",
+        "secretsmanager.us-east-2.amazonaws.com",
         "servicereference.us-east-1.amazonaws.com",
         "ssh.github.com",
         "sts.us-east-2.amazonaws.com"
