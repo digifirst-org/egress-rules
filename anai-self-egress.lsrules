@@ -41,12 +41,15 @@
       "remote-hosts": [
         "794testsite.my.site.com",
         "adamslawfirm--uat.sandbox.my.salesforce.com",
+        "adamslawfirm-test-bucket.s3.us-east-2.amazonaws.com",
         "adamslawfirm.my.salesforce.com",
+        "adamslawfirmbucket.s3.us-east-2.amazonaws.com",
         "advocate1.my.salesforce.com",
         "advocatecloudsolutions3-dev-ed.develop.my.salesforce.com",
         "agility-fun-6628-dev-ed.scratch.my.salesforce.com",
         "browser-intake-us5-datadoghq.com",
         "business-data-3836-dev-ed.scratch.my.salesforce.com",
+        "cdn.playwright.dev",
         "cloudformation.us-east-2.amazonaws.com",
         "code.claude.com",
         "connect-nosoftware-7823-dev-ed.scratch.my.salesforce.com",
@@ -71,12 +74,15 @@
         "osv-vulnerabilities.storage.googleapis.com",
         "pkg-containers.githubusercontent.com",
         "platform.claude.com",
+        "playwright.download.prss.microsoft.com",
         "saas-saas-9156-dev-ed.scratch.my.salesforce.com",
         "schemas.us-east-2.amazonaws.com",
         "secretsmanager.us-east-2.amazonaws.com",
         "servicereference.us-east-1.amazonaws.com",
         "ssh.github.com",
-        "sts.us-east-2.amazonaws.com"
+        "storage.googleapis.com",
+        "sts.us-east-2.amazonaws.com",
+        "support.parsec.app"
       ],
       "notes": "ANAI benign self-egress (live-observed agent hostnames + curated hosts) — high priority overrides feed denies."
     }
