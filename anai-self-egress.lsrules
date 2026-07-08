@@ -40,6 +40,7 @@
       "direction": "outgoing",
       "remote-hosts": [
         "794testsite.my.site.com",
+        "adams-prod-ingest-930271538244.s3.us-east-2.amazonaws.com",
         "adamslawfirm--uat.sandbox.my.salesforce.com",
         "adamslawfirm-test-bucket.s3.us-east-2.amazonaws.com",
         "adamslawfirm.my.salesforce.com",
@@ -67,6 +68,8 @@
         "java-customization-5409-dev-ed.scratch.my.salesforce.com",
         "lambda.us-east-2.amazonaws.com",
         "login.salesforce.com",
+        "logs.us-east-2.amazonaws.com",
+        "monitoring.us-east-2.amazonaws.com",
         "nodejs.org",
         "omalleytunstall3--filetransf.sandbox.my.salesforce.com",
         "omalleytunstall3.my.salesforce.com",
