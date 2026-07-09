@@ -84,6 +84,7 @@
         "secretsmanager.us-east-2.amazonaws.com",
         "servicereference.us-east-1.amazonaws.com",
         "ssh.github.com",
+        "states.us-east-2.amazonaws.com",
         "storage.googleapis.com",
         "sts.us-east-2.amazonaws.com",
         "support.parsec.app"
