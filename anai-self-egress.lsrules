@@ -40,6 +40,7 @@
       "direction": "outgoing",
       "remote-hosts": [
         "794testsite.my.site.com",
+        "adams-ingest-930271538244.s3.us-east-2.amazonaws.com",
         "adams-prod-ingest-930271538244.s3.us-east-2.amazonaws.com",
         "adamslawfirm--uat.sandbox.my.salesforce.com",
         "adamslawfirm-test-bucket.s3.us-east-2.amazonaws.com",
@@ -48,6 +49,7 @@
         "advocate1.my.salesforce.com",
         "advocatecloudsolutions3-dev-ed.develop.my.salesforce.com",
         "agility-fun-6628-dev-ed.scratch.my.salesforce.com",
+        "bedrock.us-east-2.amazonaws.com",
         "browser-intake-us5-datadoghq.com",
         "business-data-3836-dev-ed.scratch.my.salesforce.com",
         "cdn.playwright.dev",
