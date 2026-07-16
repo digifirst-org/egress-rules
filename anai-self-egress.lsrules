@@ -52,6 +52,7 @@
         "bedrock.us-east-2.amazonaws.com",
         "browser-intake-us5-datadoghq.com",
         "business-data-3836-dev-ed.scratch.my.salesforce.com",
+        "cas-server.xethub.hf.co",
         "cdn.playwright.dev",
         "cloudformation.us-east-2.amazonaws.com",
         "code.claude.com",
@@ -65,6 +66,7 @@
         "email.us-east-2.amazonaws.com",
         "github.com",
         "http-intake.logs.us5.datadoghq.com",
+        "huggingface.co",
         "iam.amazonaws.com",
         "inspiration-platform-5888-dev-ed.scratch.my.salesforce.com",
         "inspiration-saas-4079-dev-ed.scratch.my.salesforce.com",
@@ -95,7 +97,8 @@
         "states.us-east-2.amazonaws.com",
         "storage.googleapis.com",
         "sts.us-east-2.amazonaws.com",
-        "support.parsec.app"
+        "support.parsec.app",
+        "transfer.xethub.hf.co"
       ],
       "notes": "ANAI benign self-egress (live-observed agent hostnames + curated hosts) — high priority overrides feed denies."
     }
