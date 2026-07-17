@@ -102,7 +102,8 @@
         "storage.googleapis.com",
         "sts.us-east-2.amazonaws.com",
         "support.parsec.app",
-        "transfer.xethub.hf.co"
+        "transfer.xethub.hf.co",
+        "westus-0.in.applicationinsights.azure.com"
       ],
       "notes": "ANAI benign self-egress (live-observed agent hostnames + curated hosts) — high priority overrides feed denies."
     }
