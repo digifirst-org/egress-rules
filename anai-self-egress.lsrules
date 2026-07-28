@@ -70,6 +70,7 @@
         "ec2.us-east-2.amazonaws.com",
         "efficiency-customizatio197-dev-ed.scratch.my.salesforce.com",
         "email.us-east-2.amazonaws.com",
+        "export.arxiv.org",
         "github.com",
         "http-intake.logs.us5.datadoghq.com",
         "huggingface.co",
@@ -111,7 +112,8 @@
         "textract.us-east-2.amazonaws.com",
         "transfer.xethub.hf.co",
         "us.aws.cdn.hf.co",
-        "westus-0.in.applicationinsights.azure.com"
+        "westus-0.in.applicationinsights.azure.com",
+        "www.paddlepaddle.org.cn"
       ],
       "notes": "ANAI benign self-egress (live-observed agent hostnames + curated hosts) — high priority overrides feed denies."
     }
