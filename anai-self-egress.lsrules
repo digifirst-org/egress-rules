@@ -39,6 +39,7 @@
       "priority": "high",
       "direction": "outgoing",
       "remote-hosts": [
+        "6678a9a4-8a27-446b-a5dd-f0da9ab6d60f.frame.claudeusercontent.com",
         "794testsite.my.site.com",
         "adams-ingest-930271538244.s3.us-east-2.amazonaws.com",
         "adams-prod-ingest-930271538244.s3.us-east-2.amazonaws.com",
