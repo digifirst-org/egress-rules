@@ -123,6 +123,7 @@
         "ssh.github.com",
         "ssm.us-east-2.amazonaws.com",
         "states.us-east-2.amazonaws.com",
+        "static.rust-lang.org",
         "storage.googleapis.com",
         "sts.us-east-2.amazonaws.com",
         "support.parsec.app",
