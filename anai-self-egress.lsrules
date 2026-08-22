@@ -55,6 +55,8 @@
         "api.pricing.us-east-1.amazonaws.com",
         "api.sagemaker.us-east-2.amazonaws.com",
         "apigateway.us-east-2.amazonaws.com",
+        "arxiv.org",
+        "aws.amazon.com",
         "bedrock.us-east-2.amazonaws.com",
         "browser-intake-us5-datadoghq.com",
         "business-data-3836-dev-ed.scratch.my.salesforce.com",
