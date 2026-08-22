@@ -105,6 +105,7 @@
         "openaipublic.blob.core.windows.net",
         "osv-vulnerabilities.storage.googleapis.com",
         "paddle-model-ecology.bj.bcebos.com",
+        "paddlepaddle.github.io",
         "pici-extraction-artifacts.s3.us-east-2.amazonaws.com",
         "pici-gen4-omalley-prod-930271538244.s3.us-east-2.amazonaws.com",
         "pici-staging-acs-demo-930271538244.s3.us-east-2.amazonaws.com",
