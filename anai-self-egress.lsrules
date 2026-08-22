@@ -59,6 +59,7 @@
         "browser-intake-us5-datadoghq.com",
         "business-data-3836-dev-ed.scratch.my.salesforce.com",
         "cas-server.xethub.hf.co",
+        "cdn-lfs-cn-1.modelscope.cn",
         "cdn.playwright.dev",
         "ce.us-east-1.amazonaws.com",
         "claude.com",
@@ -134,6 +135,7 @@
         "transfer.xethub.hf.co",
         "us.aws.cdn.hf.co",
         "westus-0.in.applicationinsights.azure.com",
+        "www.modelscope.cn",
         "www.paddlepaddle.org.cn"
       ],
       "notes": "ANAI benign self-egress (live-observed agent hostnames + curated hosts) — high priority overrides feed denies."
