@@ -3,6 +3,7 @@
   "description": "Phase 9 (task :25): malicious-only DENY blocklist from abuse.ch Tier-1 feeds (Feodo C2 IPs, ThreatFox botnet_cc, URLhaus online malware hosts) with FireHOL Tier-3 corroboration. Self-egress + multi-tenant/compromised-legit destinations excluded. Observe-only posture (D-TSS-4): malicious-only deny, no default-deny flip.",
   "denied-remote-addresses": [
     "1.117.61.139",
+    "1.13.179.86",
     "1.13.19.103",
     "1.14.193.53",
     "1.15.179.110",
@@ -230,6 +231,7 @@
     "113.239.116.131",
     "113.239.223.142",
     "113.239.243.195",
+    "113.239.246.19",
     "113.239.64.220",
     "113.44.89.87",
     "113.44.90.0",
@@ -412,6 +414,7 @@
     "124.220.11.206",
     "124.220.34.180",
     "124.221.146.23",
+    "124.221.46.243",
     "124.221.47.107",
     "124.222.109.22",
     "124.222.128.197",
