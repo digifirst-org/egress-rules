@@ -120,6 +120,7 @@
         "pici-staging-omalley-sandbox-930271538244.s3.us-east-2.amazonaws.com",
         "pici-textract-staging-930271538244.s3.us-east-2.amazonaws.com",
         "pici-xray-review-dev-930271538244-us-east-2.s3.us-east-2.amazonaws.com",
+        "pici-xray-review-dev-reviewcachebucket-jwnzoqqznjrz.s3.us-east-2.amazonaws.com",
         "pkg-containers.githubusercontent.com",
         "platform.claude.com",
         "playwright.download.prss.microsoft.com",
