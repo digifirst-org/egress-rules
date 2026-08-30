@@ -69,6 +69,7 @@
         "ce.us-east-1.amazonaws.com",
         "claude.ai",
         "claude.com",
+        "cloudformation.us-east-1.amazonaws.com",
         "cloudformation.us-east-2.amazonaws.com",
         "code.claude.com",
         "codebuild.us-east-2.amazonaws.com",
