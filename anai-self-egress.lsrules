@@ -61,6 +61,7 @@
         "api.sagemaker.us-east-2.amazonaws.com",
         "apigateway.us-east-2.amazonaws.com",
         "arxiv.org",
+        "aws-sam-cli-managed-default-samclisourcebucket-os3d5nkdese9.s3.us-east-2.amazonaws.com",
         "aws.amazon.com",
         "bedrock.us-east-2.amazonaws.com",
         "browser-intake-us5-datadoghq.com",
