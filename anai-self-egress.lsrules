@@ -134,6 +134,8 @@
         "paddlepaddle.github.io",
         "pici-extraction-artifacts.s3.us-east-2.amazonaws.com",
         "pici-gen4-advocate1-930271538244.s3.us-east-2.amazonaws.com",
+        "pici-gen4-eolcasecloud-930271538244.s3.us-east-2.amazonaws.com",
+        "pici-gen4-harness-930271538244.s3.us-east-2.amazonaws.com",
         "pici-gen4-omalley-prod-930271538244.s3.us-east-2.amazonaws.com",
         "pici-staging-acs-demo-930271538244.s3.us-east-2.amazonaws.com",
         "pici-staging-acs-dev-930271538244.s3.us-east-2.amazonaws.com",
