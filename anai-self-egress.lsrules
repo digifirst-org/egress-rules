@@ -110,6 +110,7 @@
         "dl.yf.io",
         "doc-10-68-docs.googleusercontent.com",
         "docs.aws.amazon.com",
+        "docs.xreal.com",
         "doctr-static.mindee.com",
         "download.pytorch.org",
         "downloads.claude.ai",
@@ -233,6 +234,7 @@
         "textract.us-east-2.amazonaws.com",
         "transcribestreaming.us-east-1.amazonaws.com",
         "transfer.xethub.hf.co",
+        "tutorials.xreal.com",
         "txmpthn2ooyvhy4bshq2fqhuwm0gploc.lambda-url.us-east-2.on.aws",
         "unpkg.com",
         "untrusted-root.badssl.com",
@@ -243,7 +245,8 @@
         "wrong.host.badssl.com",
         "www.google-analytics.com",
         "www.modelscope.cn",
-        "www.paddlepaddle.org.cn"
+        "www.paddlepaddle.org.cn",
+        "yafengnju.github.io"
       ],
       "notes": "ANAI benign self-egress (live-observed agent hostnames + curated hosts) — high priority overrides feed denies."
     }
