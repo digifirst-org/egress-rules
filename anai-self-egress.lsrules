@@ -233,6 +233,7 @@
         "storage.googleapis.com",
         "sts.us-east-1.amazonaws.com",
         "sts.us-east-2.amazonaws.com",
+        "stun.l.google.com",
         "support.parsec.app",
         "tagging.us-east-2.amazonaws.com",
         "textract.us-east-2.amazonaws.com",
