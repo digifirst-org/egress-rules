@@ -87,6 +87,7 @@
         "bedrock-agentcore.us-east-1.amazonaws.com",
         "bedrock-runtime.us-east-1.amazonaws.com",
         "bedrock-runtime.us-east-2.amazonaws.com",
+        "bedrock.us-east-1.amazonaws.com",
         "bedrock.us-east-2.amazonaws.com",
         "browser-intake-us5-datadoghq.com",
         "budgets.amazonaws.com",
