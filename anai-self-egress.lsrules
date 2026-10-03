@@ -65,6 +65,7 @@
         "advocate1.file.force.com",
         "advocate1.my.salesforce.com",
         "advocatecloudsolutions3-dev-ed.develop.my.salesforce.com",
+        "aebe6kzjnzgvlfo4tdxq4c5f5i0idrms.lambda-url.us-east-2.on.aws",
         "agility-fun-6628-dev-ed.scratch.my.salesforce.com",
         "aistudio.baidu.com",
         "api-mcp.global.api.aws",
@@ -131,6 +132,7 @@
         "events.us-east-2.amazonaws.com",
         "expired.badssl.com",
         "export.arxiv.org",
+        "fnvfpzyidslj4jfszomynedkle0mduol.lambda-url.us-east-2.on.aws",
         "fzfnm7onlxfqwzl2gdrynn7k6q0zczhs.lambda-url.us-east-2.on.aws",
         "git.aistudio.baidu.com",
         "github.com",
@@ -252,7 +254,8 @@
         "www.google-analytics.com",
         "www.modelscope.cn",
         "www.paddlepaddle.org.cn",
-        "yafengnju.github.io"
+        "yafengnju.github.io",
+        "yvwm4rb6tm6aiw5mvnowpa6tgi0dqudm.lambda-url.us-east-2.on.aws"
       ],
       "notes": "ANAI benign self-egress (live-observed agent hostnames + curated hosts) — high priority overrides feed denies."
     }
