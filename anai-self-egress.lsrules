@@ -79,6 +79,7 @@
         "api.pricing.us-east-1.amazonaws.com",
         "api.sagemaker.us-east-2.amazonaws.com",
         "apigateway.us-east-2.amazonaws.com",
+        "app-saas-3258-dev-ed.scratch.my.salesforce.com",
         "app.unpkg.com",
         "arxiv.org",
         "aws-sam-cli-managed-default-samclisourcebucket-os3d5nkdese9.s3.us-east-2.amazonaws.com",
