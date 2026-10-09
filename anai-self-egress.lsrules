@@ -89,6 +89,7 @@
         "aws-sam-cli-managed-default-samclisourcebucket-xyorblh0gzfh.s3.us-east-2.amazonaws.com",
         "aws-sdk-probe-nonexistent-bucket-x9.s3.us-east-2.amazonaws.com",
         "aws.amazon.com",
+        "awslambda-us-east-2-layers.s3.us-east-2.amazonaws.com",
         "awslambda-us-east-2-tasks.s3.us-east-2.amazonaws.com",
         "bc866ead-5033-4b10-8a84-9c88fc0dd19b.frame.claudeusercontent.com",
         "bedrock-agentcore-control.us-east-1.amazonaws.com",
