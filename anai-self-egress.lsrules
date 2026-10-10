@@ -39,6 +39,7 @@
       "priority": "high",
       "direction": "outgoing",
       "remote-hosts": [
+        "053f3751-e9b7-4801-82fd-d2d8e65b73c4.frame.claudeusercontent.com",
         "100-54-244-96.t-99577840.kinesisvideo.us-east-1.amazonaws.com",
         "23-20-33-138.t-99577840.kinesisvideo.us-east-1.amazonaws.com",
         "2600:1f18:2792:f209:50c5:1b17:1b19:a463",
