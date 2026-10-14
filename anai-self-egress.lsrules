@@ -315,6 +315,7 @@
         "support.parsec.app",
         "support.us-east-1.amazonaws.com",
         "tagging.us-east-2.amazonaws.com",
+        "telemetry.nextjs.org",
         "test.salesforce.com",
         "textract.us-east-2.amazonaws.com",
         "transcribestreaming.us-east-1.amazonaws.com",
