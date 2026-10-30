@@ -155,6 +155,7 @@
         "ethenostrofflaw.my.salesforce.com",
         "events.us-east-1.amazonaws.com",
         "events.us-east-2.amazonaws.com",
+        "example.com",
         "expired.badssl.com",
         "export.arxiv.org",
         "flow-data-499-dev-ed.scratch.my.salesforce.com",
