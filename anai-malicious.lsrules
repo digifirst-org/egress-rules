@@ -2033,6 +2033,7 @@
     "216.158.95.183",
     "216.227.218.84",
     "216.245.184.41",
+    "216.250.252.224",
     "216.75.142.67",
     "216.9.224.44",
     "217.142.243.156",
@@ -2600,6 +2601,7 @@
     "46.244.96.132",
     "46.246.12.9",
     "46.246.14.12",
+    "46.246.4.2",
     "46.246.4.24",
     "46.246.6.24",
     "46.246.6.6",
@@ -4543,6 +4545,7 @@
     "ve.akun258.org",
     "venix-hub.mom",
     "verifyidentrob01.cc",
+    "veritycraft.lol",
     "veritymein.eastus.cloudapp.azure.com",
     "verse-38.com",
     "vf.amanbet89.org",
@@ -4668,7 +4671,8 @@
     "zj.amanbet89.org",
     "zjpahvpn1.voltrun.co",
     "zn.alsg96.org",
-    "zone-14-service-8-8.eastus.cloudapp.azure.com"
+    "zone-14-service-8-8.eastus.cloudapp.azure.com",
+    "zoo101.ydns.eu"
   ],
   "denied-remote-notes": "Blocked malicious egress to %REMOTE% (abuse.ch threat intel)."
 }
