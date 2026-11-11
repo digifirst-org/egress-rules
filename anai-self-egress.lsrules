@@ -80,6 +80,7 @@
         "api.ecr.us-east-1.amazonaws.com",
         "api.ecr.us-east-2.amazonaws.com",
         "api.elevenlabs.io",
+        "api.hume.ai",
         "api.openai.com",
         "api.pricing.us-east-1.amazonaws.com",
         "api.sagemaker.us-east-2.amazonaws.com",
